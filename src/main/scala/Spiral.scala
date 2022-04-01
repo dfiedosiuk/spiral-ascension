@@ -1,0 +1,3 @@
+object Spiral extends App {
+
+}
